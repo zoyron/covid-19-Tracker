@@ -24,3 +24,9 @@ this can result in great confusion */
 .deaths {
   border-bottom: 10px solid rgba(0, 0, 250, 0.5);
 }
+
+@media (max-width: 770px) {
+  .card {
+    margin: 2% 0 !important;
+  }
+}
