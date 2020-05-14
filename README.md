@@ -16,14 +16,14 @@
 
 
 
-### API used:
+### APIs used:
 
 * `https://covid19.mathdro.id/api`
 
 * `https://covid19.mathdro.id/api/daily`
 
 * `https://covid19.mathdro.id/api/countries/${country}`
-  * **Note: change _Country_ inside {} to name of any country to get the results.**
+  * **Note: change _country_ inside {} to name of any country to get the results.**
   
 
 
