@@ -4,3 +4,23 @@
 all the styles defined for this componet
 will be applied to other components as well
 this can result in great confusion */
+
+.container {
+  margin: 50px 0;
+}
+
+.card {
+  margin: 0 2% !important;
+}
+
+.infected {
+  border-bottom: 10px solid rgba(250, 0, 0, 0.5);
+}
+
+.recovered {
+  border-bottom: 10px solid rgba(0, 250, 0, 0.5);
+}
+
+.deaths {
+  border-bottom: 10px solid rgba(0, 0, 250, 0.5);
+}
