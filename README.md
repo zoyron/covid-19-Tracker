@@ -10,7 +10,8 @@
 * Run `npm install`, it will install all the required dependencies
 * Then run `npm start`, it will run the project locally to your computer
 
-
+### API used:
+> `https://covid19.mathdro.id/api`
 
 
 
