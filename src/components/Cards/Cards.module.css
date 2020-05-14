@@ -1,0 +1,6 @@
+/* why is necessary to use modules? */
+
+/* it is important to use modules in css because if we dont do that then 
+all the styles defined for this componet
+will be applied to other components as well
+this can result in great confusion */
