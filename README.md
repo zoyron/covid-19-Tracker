@@ -1,4 +1,7 @@
-# [COVID-19 Tracker](https://elated-keller-4a0570.netlify.app/)
+#### The site is hosted [here](https://elated-keller-4a0570.netlify.app/)
+
+
+# COVID-19 Tracker
 
 ![COVID-19 Tracker Image](./src/images/COVID.png)
 
